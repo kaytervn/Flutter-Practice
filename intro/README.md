@@ -1,4 +1,4 @@
-# excercies_01
+# intro
 
 A new Flutter project.
 
